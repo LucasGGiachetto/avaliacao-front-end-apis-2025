@@ -3,6 +3,9 @@
 ## 🎯 Objetivo
 O objetivo deste desafio é avaliar habilidades em desenvolvimento de páginas web front-end. Deverá ser criado uma UI simples que consome uma API pública, exibe os dados em uma lista, permite a navegação para uma tela de detalhes e possui uma funcionalidade de busca.
 
+Usuário: emilys
+Senha: emilyspass
+
 ---
 
 ## 🛠 Stack Recomendada
